@@ -1,0 +1,75 @@
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\bin\Debug\SeewoStart-Install.exe.config
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\bin\Debug\SeewoStart-Install.exe
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\bin\Debug\SeewoStart-Install.pdb
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\bin\Debug\SeewoStart-Install.xml
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.AssemblyReference.cache
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Interop.Shell32.dll
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.ResolveComReference.cache
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\MainWindow.g.vb
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Window1.g.vb
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Window2.g.vb
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Window3.g.vb
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Application.g.vb
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install_MarkupCompile.cache
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install_MarkupCompile.lref
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\MainWindow.baml
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Window1.baml
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Window2.baml
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\Window3.baml
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.g.resources
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart_Install.Resources.resources
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.GenerateResource.cache
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.CoreCompileInputs.cache
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.exe
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.xml
+E:\seewostart-Install\SeewoStart-Install\SeewoStart-Install\obj\Debug\SeewoStart-Install.pdb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\startsettings.exe
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.exe.config
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.exe
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.pdb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.xml
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Interop.Shell32.dll
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.ResolveComReference.cache
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\MainWindow.g.vb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window1.g.vb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window2.g.vb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window3.g.vb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Application.g.vb
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install_MarkupCompile.cache
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install_MarkupCompile.lref
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\MainWindow.baml
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window1.baml
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window2.baml
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window3.baml
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.g.resources
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart_Install.Resources.resources
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.GenerateResource.cache
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.CoreCompileInputs.cache
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.exe
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.xml
+E:\XAML学习\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.pdb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.exe.config
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.exe
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.pdb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\bin\Debug\SeewoStart-Install.xml
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Interop.Shell32.dll
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.ResolveComReference.cache
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\MainWindow.g.vb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window1.g.vb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window2.g.vb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window3.g.vb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Application.g.vb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install_MarkupCompile.cache
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install_MarkupCompile.lref
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\MainWindow.baml
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window1.baml
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window2.baml
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\Window3.baml
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.g.resources
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart_Install.Resources.resources
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.GenerateResource.cache
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.CoreCompileInputs.cache
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.exe
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.xml
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.pdb
+C:\Users\XUSHANZHENXIN\Pictures\SeewoStart-Install (4)\SeewoStart-Install\obj\Debug\SeewoStart-Install.vbproj.AssemblyReference.cache

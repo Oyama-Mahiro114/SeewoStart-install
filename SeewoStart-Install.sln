@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SeewoStart-Install", "SeewoStart-Install\SeewoStart-Install.vbproj", "{838A9FFD-E3C7-4258-B472-4ECB87E8C5CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838A9FFD-E3C7-4258-B472-4ECB87E8C5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838A9FFD-E3C7-4258-B472-4ECB87E8C5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838A9FFD-E3C7-4258-B472-4ECB87E8C5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838A9FFD-E3C7-4258-B472-4ECB87E8C5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00662666-975B-4464-BCAE-CE952B9A7293}
+	EndGlobalSection
+EndGlobal
